@@ -33,10 +33,4 @@ tags: WEB
 - [Github-Gezeliheid-koko](https://github.com/Gezeliheid-KOKO)
 - [Github-Gezeliheid-KOKO](https://github.com/Gezeliheid-KOKO)
 
-## 命令
-```bash
-bundle exec jekyll build
-bundle exec jekyll build
 
-
-```
