@@ -23,7 +23,7 @@ tags: WEB
 
 ## 媒体
 
-- [Bilibili频道]([https://space.bilibili.com/148303288?spm_id_from=333.788.b_765f7570696e666f.2](https://space.bilibili.com/321079308?spm_id_from=333.1007.0.0))
+- [Bilibili频道:https://space.bilibili.com/321079308/](https://space.bilibili.com/321079308/)
 
 ## 联系我
 
