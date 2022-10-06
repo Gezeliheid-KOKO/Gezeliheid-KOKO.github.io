@@ -23,14 +23,11 @@ tags: WEB
 
 ## 媒体
 
-- [Youtube频道](https://www.youtube.com/channel/UCX6rNsdQm37Z7-egP4ygF4g?view_as=subscriber)
-- [Bilibili频道](https://space.bilibili.com/148303288?spm_id_from=333.788.b_765f7570696e666f.2)
-- [微博MojoTV_cn](http://weibo.com/u/2706451481?is_all=1)
+- [Bilibili频道]([https://space.bilibili.com/148303288?spm_id_from=333.788.b_765f7570696e666f.2](https://space.bilibili.com/321079308?spm_id_from=333.1007.0.0))
 
 ## 联系我
 
 - [1903599011@qq.com](1903599011@qq.com)
-- [Github-Gezeliheid-koko](https://github.com/Gezeliheid-KOKO)
 - [Github-Gezeliheid-KOKO](https://github.com/Gezeliheid-KOKO)
 
 
